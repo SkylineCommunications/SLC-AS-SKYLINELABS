@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <DMSScript options="272" xmlns="http://www.skyline.be/automation">
-	<Name>ToggleButton</Name>
+	<Name>Togglebutton-r</Name>
 	<Description></Description>
 	<Type>Automation</Type>
 	<Author>SKYLINE2\TiagoPO</Author>
 	<CheckSets>FALSE</CheckSets>
-	<Folder></Folder>
+	<Folder>\Skyline Labs\</Folder>
 
 	<Protocols>
 	</Protocols>

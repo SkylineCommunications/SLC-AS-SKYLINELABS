@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DMSScript options="272" xmlns="http://www.skyline.be/automation">
+	<Name>ToggleButton</Name>
+	<Description></Description>
+	<Type>Automation</Type>
+	<Author>SKYLINE2\TiagoPO</Author>
+	<CheckSets>FALSE</CheckSets>
+	<Folder></Folder>
+
+	<Protocols>
+	</Protocols>
+
+	<Memory>
+	</Memory>
+
+	<Parameters>
+		<ScriptParameter id="4" type="string" values="">
+			<Description>disabledValue</Description>
+		</ScriptParameter>
+		<ScriptParameter id="1" type="string" values="">
+			<Description>dmaeid</Description>
+		</ScriptParameter>
+		<ScriptParameter id="3" type="string" values="">
+			<Description>enabledValue</Description>
+		</ScriptParameter>
+		<ScriptParameter id="2" type="string" values="">
+			<Description>readParam</Description>
+		</ScriptParameter>
+	</Parameters>
+
+	<Script>
+		<Exe id="5" type="csharp">
+			<Value><![CDATA[[Project:ToggleButton_1]]]></Value>
+			<!--<Param type="debug">true</Param>-->
+			<Message></Message>
+		</Exe>
+	</Script>
+</DMSScript>
